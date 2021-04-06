@@ -6,6 +6,6 @@ A growing number of cases have proven that machine learning algorithms demonstra
 
 ## Procedure
 To replicate the results from this thesis, run the code in the following order: 
-1. Pre-processing_FINAL
-2. Prediction ML Model_FINAL
-3. Appointment Simulation_Final.
+1. Pre-processing_FINAL.ipynb
+2. Prediction ML Model_FINAL.ipynb
+3. Appointment Simulation_FINAL.ipynb
